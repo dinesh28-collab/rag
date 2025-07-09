@@ -1,0 +1,8 @@
+gradio
+PyMuPDF
+faiss-cpu
+sentence-transformers
+langchain
+transformers
+scikit-learn
+requests
